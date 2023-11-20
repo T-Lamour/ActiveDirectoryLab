@@ -19,7 +19,7 @@ This project is a walkthrough of how I created an Active Directory home lab Envi
 <h2>Links</h2>
 
 - <b>VirtualBox:</b> https://www.virtualbox.org/wiki/Downloads
-- <b>Windows Server 2019:</b> https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
+- <b>Windows Server 2019 ISO:</b> https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
 - <b>Windows 10 ISO:</b> https://www.microsoft.com/en-us/software-download/windows10
 
 <h2 align="center">Program walk-through</h2>
